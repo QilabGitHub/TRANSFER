@@ -31,7 +31,7 @@ representing the **recipient cell** based on nuclear fluorescent protein signals
 ## Thresholding and Mask Generation
 
 - Intensity thresholds are calculated based on pixel-intensity statistics
-within the selected ROI.
+within the selected ROI. The thresholding factors can be adjusted as needed.
 - Binary masks are generated as follows:
 
 pixel intensity < threshold → 0
@@ -91,13 +91,15 @@ If you wish to test different threshold parameters:
 ## Demo
 
 Three folders:
-### 1. Quantifying mCherry on endosome marker
-### 2. Quantifying GFP on endosome marker
-### 3. Quantifying fluorescence intensity in recipient cells
+1. Quantifying mCherry on endosome marker
+2. Quantifying GFP on endosome marker
+3. Quantifying fluorescence intensity in recipient cells
 
 Each containing Demo data (.tif files) under the Demo folder, MATLAB code for analysis, and Channel intensity file.
 Example output files can be found in the Demo folder as well.
 
 ---
+
+## Acknowledgement
 
 The code was adapted from MATLAB code calculate_percentage_RNA_dCas13_colocalization.m from [Programmable Control of Spatial Transcriptome in Live Cells and Neurons](https://github.com/QilabGitHub/CRISPR-TO/tree/main) written by Xiang Wu, 2024.
