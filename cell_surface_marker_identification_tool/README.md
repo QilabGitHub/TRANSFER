@@ -53,7 +53,7 @@ No non-standard hardware is required. The software runs on any standard desktop 
 
 3. **Install dependencies:**
    ```bash
-   cd TRANSFER-v2
+   cd TRANSFER-v2/cell_surface_marker_identification_tool
    pip install -r requirements.txt
    ```
 
