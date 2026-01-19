@@ -75,7 +75,7 @@ colocalization.csv (or intensity.csv if analyzing intensity on the mask as well)
 - The first column (Filenames) specifies the image names.
 - For colocalization score analysis, the second column (**RNA_colocal**) specifies the percentage of mCherry or GFP signal co-localized with the endosome marker.
 - For analysis of integrated intensity of fluorescent signal on the mCherry mask, the column (**Intensity_RNA**) specifies the total intensity of Sephluorin on the mask,
-- and the column (**Intensity_OMM**) specifies the total intensity of mCherry on the mask.
+and the column (**Intensity_OMM**) specifies the total intensity of mCherry on the mask.
 
 ---
 
