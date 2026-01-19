@@ -5,8 +5,6 @@ channels from multi-channel TIFF microscopy images.
 
 The MATLAB code has been tested on MATLAB 9.13.0.2105380 (R2022b) Update 2.
 
-The code was adapted from MATLAB code calculate_percentage_RNA_dCas13_colocalization.m from [Programmable Control of Spatial Transcriptome in Live Cells and Neurons](https://github.com/QilabGitHub/CRISPR-TO/tree/main) written by Xiang Wu, 2024.
-
 
 ---
 
@@ -100,3 +98,6 @@ Three folders:
 Each containing Demo data (.tif files) under the Demo folder, MATLAB code for analysis, and Channel intensity file.
 Example output files can be found in the Demo folder as well.
 
+---
+
+The code was adapted from MATLAB code calculate_percentage_RNA_dCas13_colocalization.m from [Programmable Control of Spatial Transcriptome in Live Cells and Neurons](https://github.com/QilabGitHub/CRISPR-TO/tree/main) written by Xiang Wu, 2024.
