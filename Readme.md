@@ -1,6 +1,6 @@
-Code for identifying cell type-specific surface markers in TRANSFER (cell_surface_marker_identification_tool)
+Code for identifying cell type-specific surface markers in TRANSFER (**cell_surface_marker_identification_tool/**)
 and 
- for analyzing imaging data from the TRANSFER paper (image_analysis_code_and_demo).
+ for analyzing imaging data from the TRANSFER paper (**image_analysis_code_and_demo/**).
 
 ## Citation
 
