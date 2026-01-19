@@ -16,6 +16,8 @@ The MATLAB code has been tested on MATLAB 9.13.0.2105380 (R2022b) Update 2.
 ### 2. Channel sequence file
 - An Excel file named: Channel_sequence.xlsx
 
+---
+
 ## ROI Selection
 
 - The user will be prompted to manually select a **region of interest (ROI)**
