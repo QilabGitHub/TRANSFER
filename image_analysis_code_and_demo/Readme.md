@@ -95,7 +95,7 @@ Three folders:
 2. Quantifying GFP on endosome marker
 3. Quantifying fluorescence intensity in recipient cells
 
-Each containing Demo data (.tif files) under the Demo folder, MATLAB code for analysis, and Channel intensity file.
+Each containing Demo data (.tif files) under the Demo folder, MATLAB code for analysis, and Channel sequence file.
 Example output files can be found in the Demo folder as well.
 
 ---
