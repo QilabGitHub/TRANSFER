@@ -20,7 +20,7 @@ The software has been tested on:
 - macOS 13.x (Ventura)
 - Ubuntu 20.04 LTS
 - Ubuntu 22.04 LTS
-- Windows 10/11 (with Python installed)
+- Windows 10/11
 
 ### Hardware Requirements
 
