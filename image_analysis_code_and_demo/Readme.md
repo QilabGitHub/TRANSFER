@@ -5,6 +5,9 @@ channels from multi-channel TIFF microscopy images.
 
 The MATLAB code has been tested on MATLAB 9.13.0.2105380 (R2022b) Update 2.
 
+The code was adapted from MATLAB code calculate_percentage_RNA_dCas13_colocalization.m<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/9ef82664-9556-4a3c-95b8-48501443b330" /> from (Programmable Control of Spatial Transcriptome in Live Cells and Neurons)[https://github.com/QilabGitHub/CRISPR-TO/tree/main] written by Xiang Wu, 2024.
+
+
 ---
 
 ## Required Input Files
@@ -34,6 +37,7 @@ within the selected ROI.
 - Binary masks are generated as follows:
 
 pixel intensity < threshold → 0
+
 pixel intensity ≥ threshold → 1
 
 
