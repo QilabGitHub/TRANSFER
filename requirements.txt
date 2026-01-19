@@ -1,0 +1,8 @@
+# Cell Surface Marker Identification Pipeline
+# Required dependencies
+
+numpy>=1.21.0
+pandas>=1.3.0
+openpyxl>=3.0.0  # For reading/writing Excel files
+matplotlib>=3.4.0  # For generating plots
+

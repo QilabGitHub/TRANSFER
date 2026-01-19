@@ -1,0 +1,42 @@
+# Large data files (exceed GitHub's 100 MB limit)
+data/rna_single_cell_type_tissue.tsv
+Data/rna_single_cell_type_tissue.tsv
+data/uniprot_subcellular_localization
+Data/uniprot_subcellular_localization
+data/Cell_marker_Human.xlsx
+Data/Cell_marker_Human.xlsx
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Unnecessary files
+nr-software-policy*.pdf
+output.txt
+output_full_run.txt
+*.txt
+!requirements.txt
+
+# Plot outputs (optional - uncomment if you don't want to track plots)
+# plots/
+# Plots/
